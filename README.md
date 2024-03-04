@@ -1,7 +1,7 @@
 Python Utility Scripts
 ======================
 
-This repository contains a collection of Python scripts that I have written:
+This repository contains the following Python logging utils:
 
 log_functions.py - helper decorator to log function calls, with arguments and return value.
 
